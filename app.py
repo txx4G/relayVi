@@ -5,7 +5,7 @@ import random
 
 # Настройки Telegram
 CHAT_ID_DATE = "1809767336"  # Чат для отправки сообщений о введенной дате
-CHAT_ID_ERROR = "914265122"  # Чат для отправки сообщений об ошибках
+CHAT_ID_ERROR = "1809767336"  # Чат для отправки сообщений об ошибках
 CHAT_ID_ME = "5849808027"
 TOKEN = "6534400297:AAGV3uW-eolyA7yIm9PAHKVKy9WoFL9tygc"
 TELEGRAM_URL = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
